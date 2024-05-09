@@ -2,7 +2,7 @@
 
 A mini implementation of an SQL database engine using Java.
 The functionalities created for this project were :
- 1. Creating a new Metdata CSV file.
+ 1. Creating a new Metadata CSV file.
  2. Creating a new Table with its columns and adding it to the Metadata.
  3. Creating a B+ Tree index.
  4. Inserting into the table with and without the help of an index.
